@@ -14,7 +14,7 @@ namespace Actividad
 
         public void Transaccion(Mascotas mascotas, Usuarios usuarios){
             this._usuarios = usuarios;
-            this._mascotas =  mascota;
+            this._mascotas =  mascotas;
         }
         
     }
