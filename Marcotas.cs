@@ -8,6 +8,6 @@ namespace Actividad
         public string Raza;
         private string Color;
 	private string Meses;
-	private string tamaño;
+	private string tamano;
     }
 }
